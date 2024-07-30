@@ -1,10 +1,10 @@
 {
     "name": "Connexus WebMail Recipients Search/Filter",
     "short_name": "WebMail Recipients Filter",
-    "version": "2.0.0",
+    "version": "2.0.2",
     "manifest_version": 3,
     "description": "Adds a case-insensitive searchbox that filters the available recipients list in WebMail.",
-    "permissions": ["activeTab", "https://www.connexus.com/webmail/*"],
+    "permissions": ["activeTab"],
     "icons": {
         "16": "images/ccrCWS16.png",
         "32": "images/ccrCWS32.png",
